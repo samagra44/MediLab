@@ -24,6 +24,8 @@ Tools – Netbeans Ide, MySQL workbench
 
 Over view:
 
+Project Preview Video - https://youtu.be/Tt0FGi5fENM
+
 
 ![index](https://github.com/samagra44/MediLab/assets/77968722/eaddb362-4d79-4cc5-9e45-20a762fb2daa)
 
